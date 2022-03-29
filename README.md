@@ -1,2 +1,2 @@
 # PYTHON_ALGORITHM
-LET'S DIG IN!
+3/29 [DATA STRUCTURE DAY1](https://velog.io/@refindmysapporo/DATA-STRUCTRUE-DAY1)
