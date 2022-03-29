@@ -39,3 +39,4 @@ class Solution(object):
                     left +=1
                     right -=1
         return set(answer)
+    print(threeSum(3,[-1,-1,-1,0,1,1]))
