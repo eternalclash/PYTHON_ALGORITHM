@@ -48,7 +48,7 @@ class NodeMgmt:
                 self.current_node= self.current_node.left
             else:
                 self.parent = self.current_node
-                self.current_node = self.current_node
+                self.current_node = self.current_node.right
         if searched == False:
             return print(False)
         
