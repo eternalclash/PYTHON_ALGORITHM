@@ -12,6 +12,10 @@
   3/29 [DFS-DAY1](https://velog.io/@refindmysapporo/DFS-1DAY).  
   3/30 [DFS-DAY2](https://velog.io/@refindmysapporo/DFS-DAY2).  
 
+# BACKJOON
+* DATA_STRUCTURE    
+  3/31 [2493탑](https://velog.io/@refindmysapporo/%EB%B0%B1%EC%A4%802493%ED%83%91), 
+  [2800괄호제거](https://velog.io/@refindmysapporo/%EB%B0%B1%EC%A4%802800%EA%B4%84%ED%98%B8%EC%A0%9C%EA%B1%B0)
 
 # LiBRARY
 [PYTHON-HONEYTIPS](https://velog.io/@refindmysapporo/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
