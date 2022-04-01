@@ -2,7 +2,10 @@
 # PYTHON_STUDY
 3/29 [DATA STRUCTURE2 CHALLENGE DAY1](https://velog.io/@refindmysapporo/DATA-STRUCTRUE-DAY1)  
 3/30 [DATA STRUCTURE1 CHALLENGE DAY1](https://velog.io/@refindmysapporo/DATA-STRUCTURE1-DAY1)   
-3/31 [DATA STRUCTURE1 CHALLENGE DAY2](https://velog.io/@refindmysapporo/DATA-STRUCTURE1-DAY2)
+3/31 [DATA STRUCTURE1 CHALLENGE DAY2](https://velog.io/@refindmysapporo/DATA-STRUCTURE1-DAY2)    
+4/1 [DATA STRUCTURE1 CHALLENGE DAY3](https://velog.io/@refindmysapporo/DATA-STRUCTURE1-DAY3)
+
+
 
 # DATA_STRUCTURE
 3/29 [Binary Search Tree](https://velog.io/@refindmysapporo/Binary-Search-Tree)   
