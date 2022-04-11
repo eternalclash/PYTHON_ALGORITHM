@@ -17,7 +17,7 @@
   4/6  [Dijkstra Algorithm](https://velog.io/@refindmysapporo/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98).  
   4/8  [Union-Find Algorithm](https://velog.io/@refindmysapporo/UNIONFIND-ALGORITHM)   
   4/11 [Kruskal Algorithm](https://velog.io/@refindmysapporo/%EC%8B%A0%EC%9E%A5-%ED%8A%B8%EB%A6%AC)  
-  4/11 [Prim Algorithm](https://velog.io/@refindmysapporo/Prim-algorithm) 
+  4/11 [Prim Algorithm](https://velog.io/@refindmysapporo/Prim-algorithm)    
   4/11 [COMBINATION](https://velog.io/@refindmysapporo/%EC%88%9C%EC%97%B4)
   
 
