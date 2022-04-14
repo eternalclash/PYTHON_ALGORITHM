@@ -1,24 +1,34 @@
 def solution(n, build_frame):
-    answer=[[]]
-    for i in range(len(build_frame)):
-        x,y=build_frame[i][0],build_frame[i][1]
-        settle=build_frame[i][2]
-        think=build_frame[i][3]
-        if think==1: #설치
-            if settle == 0: # 기둥일 떄
+    def check(answer):
+        for x,y,thing in answer:
+            if thing == 0 : #기둥일 때
                 if y==0 or (x,y-1,0) in answer or (x,y,1) in answer or (x-1,y,1) in answer:
-                    answer.append((x,y,0))
-                else:
                     continue
-            else : # 보일 때
-                if (x,y-1,0) in answer or (x+1,y-1,0) in answer or ((x-1,y,1) in answer and (x+1,y,1) in answer):
-                    answer.append(x,y,1)
                 else:
+                    return False
+            elif thing==1 : #보일 때
+                if (x,y-1,0) in answer or (x+1,y-1,0) in answer or ((x-1,y,1) in answer and (x+1,y,1) in answer) :
                     continue
-        else: #삭제 
-            if settle == 0: #기둥일 때
-                if 
-                     
+                else:
+                    return False
+        return True
+    answer = []
+    for i in range (len(build_frame)):
+        x=build_frame[i][0]
+        y=build_frame[i][1]
+        thing=build_frame[i][2]
+        setting=build_frame[i][3]
+        if setting == 1:
+            answer.append((x,y,thing))
+            if not check(answer):
+                answer.remove((x,y,thing))
+        else :
+            answer.remove((x,y,thing))
+            if not check(answer):
+                answer.append((x,y,thing))
+    return sorted(answer)
+            
+            
                 
             
             
