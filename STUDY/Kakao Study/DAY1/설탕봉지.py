@@ -1,6 +1,4 @@
 N = int(input())
-answer=[]
-five= N//5
 k=0
 while True:
    
@@ -14,5 +12,5 @@ while True:
     else:
         print(-1)
         break
-    
+
 
