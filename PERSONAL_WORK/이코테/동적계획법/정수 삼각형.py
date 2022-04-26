@@ -18,7 +18,7 @@ for i in range(1,len(arr)):
         print(top_left,top_right)
         arr[i][j]=arr[i][j]+max(top_left,top_right)
 answer=0
-print(arr)
+
 for i in range(len(arr[-1])):
     if arr[-1][i]>answer:
         answer=arr[-1][i]
