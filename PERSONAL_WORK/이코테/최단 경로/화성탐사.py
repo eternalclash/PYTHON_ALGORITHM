@@ -17,7 +17,6 @@ for tc in range(int(input())):
     x,y=0,0
     q=[(graph[x][y],x,y)]
     distance[x][y]=graph[x][y]
-
     while q:
         dist,x,y = heapq.heappop(q)
         if distance[x][y] < dist:
