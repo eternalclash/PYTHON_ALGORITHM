@@ -63,4 +63,4 @@ for tc in range(int(input())):
     else:
         for i in result:
             print(i,end=' ')
-        print()ㅐㅐㅛㅐㅂㅁ요ㅐ묘ㅐ배ㅚ좆ㅂㅈ배봐놔모아뫄조ㅑ조ㅑㅇ뱌2ㅈ22쟈ㅏ뮤ㅏㅠ답ㅈ2ㅏ다받ㅂ2ㅏㅐ바1ㅠ듀ㅑ1보다ㅘㅗ다봽1
+        print()
