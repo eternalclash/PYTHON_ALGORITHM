@@ -4,9 +4,11 @@ def solution(n, computers):
         if x==parent[x]:
             return parent[x]
         else:
-            return parent[x]=find_parent(parent,parent[x])
+            parent[x]=find_parent(parent,parent[x])
+            return parent[x]
     
     def union_parent(x,y):
+
         x=parent[x]
         y=parent[y]
         if x>y:
